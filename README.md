@@ -43,9 +43,6 @@ Bu çalışmada, Kaggle'dan alınan Kardiyovasküler Hastalık Veri Seti kullan�
 - Lojistik Regresyon, Random Forest ve XGBoost modelleri karşılaştırılmıştır.
 - En yüksek performansı **%73 doğruluk (accuracy)** oranı ile **XGBoost** modeli göstermiştir.
 
-![Özellik Önem Grafiği](https://i.ibb.co/L95j1bF/feature-importance.png) 
-*(Not: Bu kısma, Python'da oluşturduğun özellik önem grafiğinin ekran görüntüsünü yükleyip linkini ekleyebilirsin. Örneğin, [ibb.co](https://tr.imgbb.com/) gibi bir siteye yükleyip linkini alabilirsin.)*
-
 - Modelimize göre, kalp hastalığı riskini belirleyen en önemli üç faktör sırasıyla:
   1.  **Büyük Tansiyon (ap_hi)**
   2.  **Kolesterol**
